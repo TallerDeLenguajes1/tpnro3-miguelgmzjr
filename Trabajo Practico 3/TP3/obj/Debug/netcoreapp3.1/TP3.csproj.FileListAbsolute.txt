@@ -1,0 +1,13 @@
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.exe
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.deps.json
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.runtimeconfig.json
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.dll
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.pdb
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.dll
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.pdb
+C:\Users\Miguel\Desktop\tp3_taller2\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.genruntimeconfig.cache
